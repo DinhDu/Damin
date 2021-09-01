@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/damin/static/css/main.3ce357e3.chunk.css",
+    "main.js": "/damin/static/js/main.5af2570c.chunk.js",
+    "main.js.map": "/damin/static/js/main.5af2570c.chunk.js.map",
+    "runtime-main.js": "/damin/static/js/runtime-main.15eb878d.js",
+    "runtime-main.js.map": "/damin/static/js/runtime-main.15eb878d.js.map",
+    "static/css/2.9f4e60ee.chunk.css": "/damin/static/css/2.9f4e60ee.chunk.css",
+    "static/js/2.014430bd.chunk.js": "/damin/static/js/2.014430bd.chunk.js",
+    "static/js/2.014430bd.chunk.js.map": "/damin/static/js/2.014430bd.chunk.js.map",
+    "static/js/3.82a6c6b0.chunk.js": "/damin/static/js/3.82a6c6b0.chunk.js",
+    "static/js/3.82a6c6b0.chunk.js.map": "/damin/static/js/3.82a6c6b0.chunk.js.map",
+    "index.html": "/damin/index.html",
+    "static/css/2.9f4e60ee.chunk.css.map": "/damin/static/css/2.9f4e60ee.chunk.css.map",
+    "static/css/main.3ce357e3.chunk.css.map": "/damin/static/css/main.3ce357e3.chunk.css.map",
+    "static/js/2.014430bd.chunk.js.LICENSE.txt": "/damin/static/js/2.014430bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15eb878d.js",
+    "static/css/2.9f4e60ee.chunk.css",
+    "static/js/2.014430bd.chunk.js",
+    "static/css/main.3ce357e3.chunk.css",
+    "static/js/main.5af2570c.chunk.js"
+  ]
+}
